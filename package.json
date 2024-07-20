@@ -1,0 +1,26 @@
+{
+  "name": "success-modal",
+  "version": "1.0.0",
+  "description": "a jsx component to display success message",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mh-lamine/success-modal.git"
+  },
+  "keywords": [
+    "modal",
+    "confirmation",
+    "success",
+    "message",
+    "info"
+  ],
+  "author": "lamine ngom",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mh-lamine/success-modal/issues"
+  },
+  "homepage": "https://github.com/mh-lamine/success-modal#readme"
+}
