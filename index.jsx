@@ -1,6 +1,6 @@
 import "./index.css";
 
-function Modal({ title = "", content = "", closeModal }) {
+export default function Modal({ title = "", content = "", closeModal }) {
   return (
     <div className="modal">
       <div className="modal-content">
@@ -13,8 +13,6 @@ function Modal({ title = "", content = "", closeModal }) {
     </div>
   );
 }
-
-module.exports = Modal;
 
 function Cross({ size }) {
   return (
