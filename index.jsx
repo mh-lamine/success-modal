@@ -14,8 +14,6 @@ export default function Modal({ title = "", content = "", closeModal }) {
   );
 }
 
-module.exports = Modal;
-
 function Cross({ size }) {
   return (
     <svg
